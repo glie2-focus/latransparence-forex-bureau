@@ -1,3 +1,4 @@
+
 {
   "name": "latransparence-forex-bureau",
   "private": true,
@@ -13,7 +14,6 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-  
-"vite": "^6.0.0",
+    "vite": "^6.0.0"
   }
 }
